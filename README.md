@@ -61,3 +61,4 @@ Each repo can be set up with [Travis CI](https://travis-ci.org/) for running job
 - [RawGit](https://rawgit.com/)
 - [Raw Github js file not loading (direct link) like CDN - stackoverflow](https://stackoverflow.com/questions/62901066/raw-github-js-file-not-loading-direct-link-like-cdn/)
 - [How to deploy a React, Angular and Vue project to Github pages](https://deepinder.me/how-to-deploy-a-react-angular-vue-project-to-github-pages)
+- [SyntaxError: unknown: Namespace tags are not supported by default - StackOverflow](https://stackoverflow.com/questions/59820954/syntaxerror-unknown-namespace-tags-are-not-supported-by-default)
