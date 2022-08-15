@@ -1,7 +1,11 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import classes from './root.component.module.css';
 
 export default function Root(props) {
+  useEffect(() => {
+    document.title = 'Single-Spa Page-Not-Found'
+  }, []);
+  
   return (
     <div className={classes.main}> 
       <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="470" height="290" viewBox="0 0 470 290">
